@@ -1,5 +1,12 @@
 # hugo-eclipsefdn-website-boilerplate
 
+---
+**NOTE**
+
+This project was migrated to [Eclipse Gitlab](https://gitlab.eclipse.org/eclipsefdn/it/webdev/hugo-eclipsefdn-website-boilerplate) on October 12, 2021.
+
+---
+
 This boilerplate was created to help Eclipse Projects migrate their website to Hugo!
 
 [![Build Status](https://travis-ci.org/EclipseFdn/hugo-eclipsefdn-website-boilerplate.svg?branch=main)](https://travis-ci.org/eclipsefdn/hugo-eclipsefdn-website-boilerplate)
